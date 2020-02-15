@@ -1,24 +1,48 @@
-# README
+# Pie Charter
+Pie Charter is a meal macronutrient log app. The user can input the meal macronutrients (Calories, Net Grams of Carbs, Fat, and Protein) and recall a quick visual overview of meal.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Final Gif](https://github.com/mikedichello/meal_planner/blob/master/screenshots/Final.gif)
 
-Things you may want to cover:
 
-* Ruby version
+## Project Link
+### [Pie Charter](#)
 
-* System dependencies
+## Technologies Used
+* ReactJS - Frontend
+* Ruby On Rails - Backend API
+* PostgreSQL - Database
+* ChartJS - Pie Chart Canvas Rendering
+* HTML5
+* CSS Flexbox
 
-* Configuration
+* Additional Tools: 
+    * [Faker](https://github.com/faker-ruby/faker)- Seed Data Generation
+    * [Github](https://github.com/) - Version control
+    * [Heroku](https://www.heroku.com/) - Deployment platform
+    
+   
+## Our Process
 
-* Database creation
+#### User Stories
+* The User should be able to see all meals saved in database
+* The User should be able to view details of meal with click
+* The User should be able to add new meals
+* The User should be able to delete meals
 
-* Database initialization
+#### Wireframing and Design Progress:
 
-* How to run the test suite
+<img src="https://github.com/mikedichello/meal_planner/blob/master/screenshots/mealTrackerday1.png"/>
 
-* Services (job queues, cache servers, search engines, etc.)
+##### Color Palette
+<img src="https://github.com/mikedichello/meal_planner/blob/master/screenshots/ColorPalette.png"/>
 
-* Deployment instructions
+##### Progress day 2
+![mealTrackerDay14](https://github.com/mikedichello/meal_planner/blob/master/screenshots/mealTrackerDay2.gif)
 
-* ...
+##### Final Design
+<img src="https://github.com/mikedichello/meal_planner/blob/master/screenshots/finaldesign.png"/>
+
+
+## Future Goals
+* Add another table to the database so that you can do a daily nutrition tracker as well. add meals to the day so that you can see daily caloric and macronutrient intake.
+
